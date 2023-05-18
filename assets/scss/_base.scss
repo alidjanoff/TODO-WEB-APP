@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  width: 83%;
+  margin: 0 auto;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+}
